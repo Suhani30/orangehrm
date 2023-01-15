@@ -1,0 +1,81 @@
+[ {
+  "uid" : "b28ed895c058f178",
+  "name" : "User can enter info",
+  "time" : {
+    "start" : 1673811426603,
+    "stop" : 1673811428501,
+    "duration" : 1898
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87174c192dabddfd",
+  "name" : "Assertion can be done",
+  "time" : {
+    "start" : 1673811199327,
+    "stop" : 1673811199418,
+    "duration" : 91
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb7f736a8be8e973",
+  "name" : "User can click add button",
+  "time" : {
+    "start" : 1673811425429,
+    "stop" : 1673811426599,
+    "duration" : 1170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ecf2d232696402e",
+  "name" : "User Can click the Sidebar",
+  "time" : {
+    "start" : 1673811422650,
+    "stop" : 1673811425422,
+    "duration" : 2772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60fc7858e6bdbccc",
+  "name" : "User can login successfully",
+  "time" : {
+    "start" : 1673811410044,
+    "stop" : 1673811422446,
+    "duration" : 12402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2040de347489f4fe",
+  "name" : "Assertion can be done",
+  "time" : {
+    "start" : 1673811428507,
+    "stop" : 1673811428579,
+    "duration" : 72
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ff0181b6a447421",
+  "name" : "User can click again",
+  "time" : {
+    "start" : 1673811428585,
+    "stop" : 1673811434907,
+    "duration" : 6322
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2a30ce419ce2933",
+  "name" : "Assertion can be done",
+  "time" : {
+    "start" : 1673810640013,
+    "stop" : 1673810643108,
+    "duration" : 3095
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

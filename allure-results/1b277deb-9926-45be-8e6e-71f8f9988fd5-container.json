@@ -1,0 +1,1 @@
+{"uuid":"1b277deb-9926-45be-8e6e-71f8f9988fd5","name":"HRM login","children":["a08f3e34-06f4-43e1-b6a2-99504760e9e0"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673810781680,"stop":1673810789508}],"afters":[],"links":[],"start":1673810781645,"stop":1673810822992}

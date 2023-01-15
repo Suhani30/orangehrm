@@ -1,0 +1,76 @@
+{
+  "uid" : "25ca5ced84b08709",
+  "name" : "User can login successfully",
+  "fullName" : "TestRunner.doLogin",
+  "historyId" : "c8edf4e5fb78cce3a1f41cb32b09c069",
+  "time" : {
+    "start" : 1673808753527,
+    "stop" : 1673808788365,
+    "duration" : 34838
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1673808748374,
+      "stop" : 1673808753422,
+      "duration" : 5048
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "doLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OKS63RD"
+  }, {
+    "name" : "thread",
+    "value" : "8268@DESKTOP-OKS63RD.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25ca5ced84b08709.json",
+  "parameterValues" : [ ]
+}

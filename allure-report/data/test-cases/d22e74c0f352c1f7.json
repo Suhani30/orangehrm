@@ -1,0 +1,76 @@
+{
+  "uid" : "d22e74c0f352c1f7",
+  "name" : "User Can click the Sidebar",
+  "fullName" : "TestRunner.clickPIM",
+  "historyId" : "d4986f7bb78bde1973f34048decf8cef",
+  "time" : {
+    "start" : 1673810854135,
+    "stop" : 1673810857507,
+    "duration" : 3372
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1673810836114,
+      "stop" : 1673810842061,
+      "duration" : 5947
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickPIM"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OKS63RD"
+  }, {
+    "name" : "thread",
+    "value" : "14892@DESKTOP-OKS63RD.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d22e74c0f352c1f7.json",
+  "parameterValues" : [ ]
+}

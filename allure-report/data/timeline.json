@@ -1,0 +1,1376 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-OKS63RD",
+    "children" : [ {
+      "name" : "14892@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "f96ad97f5602be1a",
+        "parentUid" : "967c6f395e4d7bf56f4d196e27b0fcda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810859304,
+          "stop" : 1673810861602,
+          "duration" : 2298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "d22e74c0f352c1f7",
+        "parentUid" : "967c6f395e4d7bf56f4d196e27b0fcda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810854135,
+          "stop" : 1673810857507,
+          "duration" : 3372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "e9df7c4fc69604a9",
+        "parentUid" : "967c6f395e4d7bf56f4d196e27b0fcda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810857523,
+          "stop" : 1673810859298,
+          "duration" : 1775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "f330be5220cebf68",
+        "parentUid" : "967c6f395e4d7bf56f4d196e27b0fcda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810861716,
+          "stop" : 1673810867910,
+          "duration" : 6194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "43976585c2bbcd85",
+        "parentUid" : "967c6f395e4d7bf56f4d196e27b0fcda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810842168,
+          "stop" : 1673810853925,
+          "duration" : 11757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "710dafc1d161c69a",
+        "parentUid" : "967c6f395e4d7bf56f4d196e27b0fcda",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810861607,
+          "stop" : 1673810861702,
+          "duration" : 95
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "967c6f395e4d7bf56f4d196e27b0fcda"
+    }, {
+      "name" : "7524@DESKTOP-OKS63RD.Test worker(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "b28ed895c058f178",
+        "parentUid" : "452619746e3e49fd7217eb51efb2c3a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811426603,
+          "stop" : 1673811428501,
+          "duration" : 1898
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "eb7f736a8be8e973",
+        "parentUid" : "452619746e3e49fd7217eb51efb2c3a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811425429,
+          "stop" : 1673811426599,
+          "duration" : 1170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "60fc7858e6bdbccc",
+        "parentUid" : "452619746e3e49fd7217eb51efb2c3a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811410044,
+          "stop" : 1673811422446,
+          "duration" : 12402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "1ecf2d232696402e",
+        "parentUid" : "452619746e3e49fd7217eb51efb2c3a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811422650,
+          "stop" : 1673811425422,
+          "duration" : 2772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "2040de347489f4fe",
+        "parentUid" : "452619746e3e49fd7217eb51efb2c3a6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811428507,
+          "stop" : 1673811428579,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "2ff0181b6a447421",
+        "parentUid" : "452619746e3e49fd7217eb51efb2c3a6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811428585,
+          "stop" : 1673811434907,
+          "duration" : 6322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "452619746e3e49fd7217eb51efb2c3a6"
+    }, {
+      "name" : "14076@DESKTOP-OKS63RD.Test worker(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "517bbad45cdd4a54",
+        "parentUid" : "cca00edc1985068c07de7e828b060b51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809608049,
+          "stop" : 1673809609987,
+          "duration" : 1938
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "bc180b74ab5360f3",
+        "parentUid" : "cca00edc1985068c07de7e828b060b51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809606616,
+          "stop" : 1673809608042,
+          "duration" : 1426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "20023d1bb7e2b7df",
+        "parentUid" : "cca00edc1985068c07de7e828b060b51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809603682,
+          "stop" : 1673809606605,
+          "duration" : 2923
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "aad7d6d5b6a5603d",
+        "parentUid" : "cca00edc1985068c07de7e828b060b51",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673809609994,
+          "stop" : 1673809615083,
+          "duration" : 5089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "cd1b3a95deb8648f",
+        "parentUid" : "cca00edc1985068c07de7e828b060b51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809589260,
+          "stop" : 1673809603524,
+          "duration" : 14264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cca00edc1985068c07de7e828b060b51"
+    }, {
+      "name" : "15988@DESKTOP-OKS63RD.Test worker(1)",
+      "children" : [ {
+        "name" : "User can click again",
+        "uid" : "ae6ba4cbf4848d91",
+        "parentUid" : "85be2a5be0c25e990ce168e2f289ecb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809817780,
+          "stop" : 1673809824045,
+          "duration" : 6265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "f7e188dd39de698a",
+        "parentUid" : "85be2a5be0c25e990ce168e2f289ecb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809812851,
+          "stop" : 1673809814691,
+          "duration" : 1840
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "2a070707ed443654",
+        "parentUid" : "85be2a5be0c25e990ce168e2f289ecb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809807259,
+          "stop" : 1673809811228,
+          "duration" : 3969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "a35ea9696c95da38",
+        "parentUid" : "85be2a5be0c25e990ce168e2f289ecb0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673809814697,
+          "stop" : 1673809817774,
+          "duration" : 3077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "9cc810ab1929fab4",
+        "parentUid" : "85be2a5be0c25e990ce168e2f289ecb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809811246,
+          "stop" : 1673809812843,
+          "duration" : 1597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "b8687c1b754da283",
+        "parentUid" : "85be2a5be0c25e990ce168e2f289ecb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809790956,
+          "stop" : 1673809807074,
+          "duration" : 16118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "85be2a5be0c25e990ce168e2f289ecb0"
+    }, {
+      "name" : "11412@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User Can click the Sidebar",
+        "uid" : "1368f360a7fda90e",
+        "parentUid" : "a81e5bc39ee00b383856f358707b540a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807001438,
+          "stop" : 1673807004675,
+          "duration" : 3237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "701fb850576f89d0",
+        "parentUid" : "a81e5bc39ee00b383856f358707b540a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807011178,
+          "stop" : 1673807017105,
+          "duration" : 5927
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "d37d1d997582326c",
+        "parentUid" : "a81e5bc39ee00b383856f358707b540a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673806969489,
+          "stop" : 1673807001256,
+          "duration" : 31767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "dd627211d9fd9443",
+        "parentUid" : "a81e5bc39ee00b383856f358707b540a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673807008074,
+          "stop" : 1673807011162,
+          "duration" : 3088
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "25ea01a67b35e07e",
+        "parentUid" : "a81e5bc39ee00b383856f358707b540a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807004695,
+          "stop" : 1673807006105,
+          "duration" : 1410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "22d7d7c61719c185",
+        "parentUid" : "a81e5bc39ee00b383856f358707b540a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807006113,
+          "stop" : 1673807008067,
+          "duration" : 1954
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a81e5bc39ee00b383856f358707b540a"
+    }, {
+      "name" : "8268@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "11ee51310a60bff3",
+        "parentUid" : "e3f22c28984184b34e7892fd72d9a4b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673808793484,
+          "stop" : 1673808795515,
+          "duration" : 2031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "f59c524ffdfb9994",
+        "parentUid" : "e3f22c28984184b34e7892fd72d9a4b2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673808795522,
+          "stop" : 1673808795605,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "520fc3a45f11bc9c",
+        "parentUid" : "e3f22c28984184b34e7892fd72d9a4b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673808788560,
+          "stop" : 1673808791833,
+          "duration" : 3273
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "25ca5ced84b08709",
+        "parentUid" : "e3f22c28984184b34e7892fd72d9a4b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673808753527,
+          "stop" : 1673808788365,
+          "duration" : 34838
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "741e41fe791dca0a",
+        "parentUid" : "e3f22c28984184b34e7892fd72d9a4b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673808791839,
+          "stop" : 1673808793479,
+          "duration" : 1640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3f22c28984184b34e7892fd72d9a4b2"
+    }, {
+      "name" : "10600@DESKTOP-OKS63RD.Test worker(1)",
+      "children" : [ {
+        "name" : "User can click add button",
+        "uid" : "b80c7749a2c2382",
+        "parentUid" : "2b80e5f52639c8dfdf4d11374aa4ab4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810196176,
+          "stop" : 1673810197982,
+          "duration" : 1806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "809d933758d4142f",
+        "parentUid" : "2b80e5f52639c8dfdf4d11374aa4ab4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810193176,
+          "stop" : 1673810196170,
+          "duration" : 2994
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "d188b00d7bcc0a8f",
+        "parentUid" : "2b80e5f52639c8dfdf4d11374aa4ab4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810197990,
+          "stop" : 1673810199858,
+          "duration" : 1868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "3d072173c0ab3642",
+        "parentUid" : "2b80e5f52639c8dfdf4d11374aa4ab4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810202977,
+          "stop" : 1673810208948,
+          "duration" : 5971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "4c77292ebfdd41fc",
+        "parentUid" : "2b80e5f52639c8dfdf4d11374aa4ab4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810135804,
+          "stop" : 1673810192803,
+          "duration" : 56999
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "6c3395d77713c649",
+        "parentUid" : "2b80e5f52639c8dfdf4d11374aa4ab4b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810199866,
+          "stop" : 1673810202971,
+          "duration" : 3105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b80e5f52639c8dfdf4d11374aa4ab4b"
+    }, {
+      "name" : "8848@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "e6325a93895498c2",
+        "parentUid" : "18ad296c999f36eb1750bd0cc0db2580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811197373,
+          "stop" : 1673811199319,
+          "duration" : 1946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "87174c192dabddfd",
+        "parentUid" : "18ad296c999f36eb1750bd0cc0db2580",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811199327,
+          "stop" : 1673811199418,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "44c043f6ea154970",
+        "parentUid" : "18ad296c999f36eb1750bd0cc0db2580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811175564,
+          "stop" : 1673811192016,
+          "duration" : 16452
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "371e3132bcfbf12f",
+        "parentUid" : "18ad296c999f36eb1750bd0cc0db2580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811192198,
+          "stop" : 1673811195721,
+          "duration" : 3523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "fd6561acafe29070",
+        "parentUid" : "18ad296c999f36eb1750bd0cc0db2580",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673811199450,
+          "stop" : 1673811204462,
+          "duration" : 5012
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "fee68bd5a6a05ab4",
+        "parentUid" : "18ad296c999f36eb1750bd0cc0db2580",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811195729,
+          "stop" : 1673811197366,
+          "duration" : 1637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "18ad296c999f36eb1750bd0cc0db2580"
+    }, {
+      "name" : "18140@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "bede1fbeb72e11cd",
+        "parentUid" : "e4891ea3ce2c2a322b959029e829b62e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811352428,
+          "stop" : 1673811354128,
+          "duration" : 1700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "55915758295ebdaf",
+        "parentUid" : "e4891ea3ce2c2a322b959029e829b62e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811338184,
+          "stop" : 1673811348255,
+          "duration" : 10071
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "3b494574d0de1af9",
+        "parentUid" : "e4891ea3ce2c2a322b959029e829b62e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673811354254,
+          "stop" : 1673811359199,
+          "duration" : 4945
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "b20f77bccffa0b6f",
+        "parentUid" : "e4891ea3ce2c2a322b959029e829b62e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811351211,
+          "stop" : 1673811352422,
+          "duration" : 1211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "bd8cf3a67c074544",
+        "parentUid" : "e4891ea3ce2c2a322b959029e829b62e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811354168,
+          "stop" : 1673811354237,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "1249bd6853d44b11",
+        "parentUid" : "e4891ea3ce2c2a322b959029e829b62e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673811348400,
+          "stop" : 1673811351203,
+          "duration" : 2803
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4891ea3ce2c2a322b959029e829b62e"
+    }, {
+      "name" : "17520@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can click again",
+        "uid" : "413af77063b0442",
+        "parentUid" : "b32a0afdf8696864b89f2bd032171bd2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673810302312,
+          "stop" : 1673810307351,
+          "duration" : 5039
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "777f3f55709c7c13",
+        "parentUid" : "b32a0afdf8696864b89f2bd032171bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810298738,
+          "stop" : 1673810300231,
+          "duration" : 1493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "7caaa222dba5a2a3",
+        "parentUid" : "b32a0afdf8696864b89f2bd032171bd2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810300241,
+          "stop" : 1673810302278,
+          "duration" : 2037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "ffccec43fca6a8ff",
+        "parentUid" : "b32a0afdf8696864b89f2bd032171bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810282447,
+          "stop" : 1673810295243,
+          "duration" : 12796
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "b5d9b34574e4fa7f",
+        "parentUid" : "b32a0afdf8696864b89f2bd032171bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810295414,
+          "stop" : 1673810298727,
+          "duration" : 3313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b32a0afdf8696864b89f2bd032171bd2"
+    }, {
+      "name" : "15440@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can login successfully",
+        "uid" : "955c92ea1ac40218",
+        "parentUid" : "aebe0251e5d246aa62ee10ddf78da159",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810718274,
+          "stop" : 1673810731614,
+          "duration" : 13340
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "b5fd46611525c708",
+        "parentUid" : "aebe0251e5d246aa62ee10ddf78da159",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810731856,
+          "stop" : 1673810734827,
+          "duration" : 2971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "a2b0576ae3b5e887",
+        "parentUid" : "aebe0251e5d246aa62ee10ddf78da159",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810734835,
+          "stop" : 1673810736442,
+          "duration" : 1607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "7e1d3ee646eb4e14",
+        "parentUid" : "aebe0251e5d246aa62ee10ddf78da159",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810741546,
+          "stop" : 1673810747320,
+          "duration" : 5774
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "38b52e7780eb6c1",
+        "parentUid" : "aebe0251e5d246aa62ee10ddf78da159",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810738459,
+          "stop" : 1673810741535,
+          "duration" : 3076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "5eb721d03c818d15",
+        "parentUid" : "aebe0251e5d246aa62ee10ddf78da159",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810736466,
+          "stop" : 1673810738453,
+          "duration" : 1987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aebe0251e5d246aa62ee10ddf78da159"
+    }, {
+      "name" : "10604@DESKTOP-OKS63RD.Test worker(1)",
+      "children" : [ {
+        "name" : "User can click add button",
+        "uid" : "f44a04f6d6746b6d",
+        "parentUid" : "1d2be077ee1ff398f52484a5e4d99b54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810082627,
+          "stop" : 1673810084216,
+          "duration" : 1589
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "9f507c87a7af4b82",
+        "parentUid" : "1d2be077ee1ff398f52484a5e4d99b54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810084228,
+          "stop" : 1673810086221,
+          "duration" : 1993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "3090e4414400a8dd",
+        "parentUid" : "1d2be077ee1ff398f52484a5e4d99b54",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810086228,
+          "stop" : 1673810089768,
+          "duration" : 3540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "7f352a47735fcddc",
+        "parentUid" : "1d2be077ee1ff398f52484a5e4d99b54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810064273,
+          "stop" : 1673810079373,
+          "duration" : 15100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "b23ca4d1b26cbe24",
+        "parentUid" : "1d2be077ee1ff398f52484a5e4d99b54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810079542,
+          "stop" : 1673810082616,
+          "duration" : 3074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "395f859062ef77ec",
+        "parentUid" : "1d2be077ee1ff398f52484a5e4d99b54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810089784,
+          "stop" : 1673810096210,
+          "duration" : 6426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d2be077ee1ff398f52484a5e4d99b54"
+    }, {
+      "name" : "12856@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "f4771816c1f13bda",
+        "parentUid" : "607719cca76755cff1012791e353b4fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807881453,
+          "stop" : 1673807883505,
+          "duration" : 2052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "e5e15f114b90c9a",
+        "parentUid" : "607719cca76755cff1012791e353b4fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673807883510,
+          "stop" : 1673807888933,
+          "duration" : 5423
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "a8fcdcfb547e795c",
+        "parentUid" : "607719cca76755cff1012791e353b4fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807880241,
+          "stop" : 1673807881443,
+          "duration" : 1202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "2ae0c5ca3438bf96",
+        "parentUid" : "607719cca76755cff1012791e353b4fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807876274,
+          "stop" : 1673807880231,
+          "duration" : 3957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "5297d40f6b49f982",
+        "parentUid" : "607719cca76755cff1012791e353b4fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673807835460,
+          "stop" : 1673807876097,
+          "duration" : 40637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "607719cca76755cff1012791e353b4fa"
+    }, {
+      "name" : "10920@DESKTOP-OKS63RD.Test worker(1)",
+      "children" : [ {
+        "name" : "User can login successfully",
+        "uid" : "1b086a2d88aa03ef",
+        "parentUid" : "3ced5c24d397722915766846699b32bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673806404853,
+          "stop" : 1673806433826,
+          "duration" : 28973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "9c7e2df5d8fcec35",
+        "parentUid" : "3ced5c24d397722915766846699b32bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673806438327,
+          "stop" : 1673806440355,
+          "duration" : 2028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "15007b43152e1a87",
+        "parentUid" : "3ced5c24d397722915766846699b32bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673806434013,
+          "stop" : 1673806436836,
+          "duration" : 2823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "547efcc3b1bccf7b",
+        "parentUid" : "3ced5c24d397722915766846699b32bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673806440360,
+          "stop" : 1673806443491,
+          "duration" : 3131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "3546e842df9541db",
+        "parentUid" : "3ced5c24d397722915766846699b32bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673806436850,
+          "stop" : 1673806438320,
+          "duration" : 1470
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "14c013fc81709ae8",
+        "parentUid" : "3ced5c24d397722915766846699b32bf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673806443496,
+          "stop" : 1673806449697,
+          "duration" : 6201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ced5c24d397722915766846699b32bf"
+    }, {
+      "name" : "7532@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can login successfully",
+        "uid" : "953f7f1cc4662767",
+        "parentUid" : "ec708e297a398cbbeca55b4e3b6a2813",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810614826,
+          "stop" : 1673810633351,
+          "duration" : 18525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "f4c783b223bb5363",
+        "parentUid" : "ec708e297a398cbbeca55b4e3b6a2813",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810636508,
+          "stop" : 1673810637736,
+          "duration" : 1228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "c2a30ce419ce2933",
+        "parentUid" : "ec708e297a398cbbeca55b4e3b6a2813",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810640013,
+          "stop" : 1673810643108,
+          "duration" : 3095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "a642a049e882a8ac",
+        "parentUid" : "ec708e297a398cbbeca55b4e3b6a2813",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810633589,
+          "stop" : 1673810636499,
+          "duration" : 2910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "740538d170b4f316",
+        "parentUid" : "ec708e297a398cbbeca55b4e3b6a2813",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810643132,
+          "stop" : 1673810648985,
+          "duration" : 5853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can enter info",
+        "uid" : "dee1c17ebd696898",
+        "parentUid" : "ec708e297a398cbbeca55b4e3b6a2813",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810638150,
+          "stop" : 1673810639983,
+          "duration" : 1833
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ec708e297a398cbbeca55b4e3b6a2813"
+    }, {
+      "name" : "10508@DESKTOP-OKS63RD.Test worker(14)",
+      "children" : [ {
+        "name" : "Assertion can be done",
+        "uid" : "14ecceb60651b468",
+        "parentUid" : "954734fe427d767108f54ca9ffbe2f4b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673810997389,
+          "stop" : 1673811027446,
+          "duration" : 30057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "954734fe427d767108f54ca9ffbe2f4b"
+    }, {
+      "name" : "21636@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "91a5a07001512c03",
+        "parentUid" : "e182ec33cdd3b2388cfae656041c5769",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810439374,
+          "stop" : 1673810441176,
+          "duration" : 1802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click again",
+        "uid" : "a9d88bebcf1f892b",
+        "parentUid" : "e182ec33cdd3b2388cfae656041c5769",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673810441188,
+          "stop" : 1673810446185,
+          "duration" : 4997
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "8c3fbe433ec23750",
+        "parentUid" : "e182ec33cdd3b2388cfae656041c5769",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810416714,
+          "stop" : 1673810434710,
+          "duration" : 17996
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "d70b15f3808be72d",
+        "parentUid" : "e182ec33cdd3b2388cfae656041c5769",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810434858,
+          "stop" : 1673810437786,
+          "duration" : 2928
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "5e9f54fe4968dfc1",
+        "parentUid" : "e182ec33cdd3b2388cfae656041c5769",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673810437791,
+          "stop" : 1673810439368,
+          "duration" : 1577
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e182ec33cdd3b2388cfae656041c5769"
+    }, {
+      "name" : "7136@DESKTOP-OKS63RD.Test worker(11)",
+      "children" : [ {
+        "name" : "Assertion can be done",
+        "uid" : "72e576340e4abd54",
+        "parentUid" : "c1f847752c783b82c4716b87cc6fa84b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673810523964,
+          "stop" : 1673810557039,
+          "duration" : 33075
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1f847752c783b82c4716b87cc6fa84b"
+    }, {
+      "name" : "8920@DESKTOP-OKS63RD.main(1)",
+      "children" : [ {
+        "name" : "User can enter info",
+        "uid" : "81f62349a2d672d",
+        "parentUid" : "b83c2ac6fe52f660c3ea4d01c9280de1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809170023,
+          "stop" : 1673809172287,
+          "duration" : 2264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "a94aaf707a8a0c3d",
+        "parentUid" : "b83c2ac6fe52f660c3ea4d01c9280de1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673809172294,
+          "stop" : 1673809172358,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login successfully",
+        "uid" : "e9d3fd02d570b31d",
+        "parentUid" : "b83c2ac6fe52f660c3ea4d01c9280de1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809133565,
+          "stop" : 1673809165401,
+          "duration" : 31836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can click add button",
+        "uid" : "a0b1eced56b84af1",
+        "parentUid" : "b83c2ac6fe52f660c3ea4d01c9280de1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809168752,
+          "stop" : 1673809170014,
+          "duration" : 1262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Can click the Sidebar",
+        "uid" : "1a59dffff9d5b3b3",
+        "parentUid" : "b83c2ac6fe52f660c3ea4d01c9280de1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673809165543,
+          "stop" : 1673809168472,
+          "duration" : 2929
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b83c2ac6fe52f660c3ea4d01c9280de1"
+    }, {
+      "name" : "11640@DESKTOP-OKS63RD.Test worker(14)",
+      "children" : [ {
+        "name" : "Assertion can be done",
+        "uid" : "f9e785d0c421c9ea",
+        "parentUid" : "a6fa916b6496a4ffdb0f3d071211cf07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673810789634,
+          "stop" : 1673810822758,
+          "duration" : 33124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6fa916b6496a4ffdb0f3d071211cf07"
+    } ],
+    "uid" : "303e16a03babef592622a1e8d801a939"
+  } ]
+}

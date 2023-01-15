@@ -1,0 +1,76 @@
+{
+  "uid" : "395f859062ef77ec",
+  "name" : "User can click again",
+  "fullName" : "TestRunner.clickAgain",
+  "historyId" : "ae1075885d209dec381678038822186b",
+  "time" : {
+    "start" : 1673810089784,
+    "stop" : 1673810096210,
+    "duration" : 6426
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1673810056800,
+      "stop" : 1673810064155,
+      "duration" : 7355
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickAgain"
+  }, {
+    "name" : "parentSuite",
+    "value" : "OrangeHRM automation"
+  }, {
+    "name" : "suite",
+    "value" : "HRM login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OKS63RD"
+  }, {
+    "name" : "thread",
+    "value" : "10604@DESKTOP-OKS63RD.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "395f859062ef77ec.json",
+  "parameterValues" : [ ]
+}

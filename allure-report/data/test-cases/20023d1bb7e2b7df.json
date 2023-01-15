@@ -1,0 +1,76 @@
+{
+  "uid" : "20023d1bb7e2b7df",
+  "name" : "User Can click the Sidebar",
+  "fullName" : "TestRunner.clickPIM",
+  "historyId" : "d4986f7bb78bde1973f34048decf8cef",
+  "time" : {
+    "start" : 1673809603682,
+    "stop" : 1673809606605,
+    "duration" : 2923
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1673809583303,
+      "stop" : 1673809589119,
+      "duration" : 5816
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickPIM"
+  }, {
+    "name" : "parentSuite",
+    "value" : "OrangeHRM automation"
+  }, {
+    "name" : "suite",
+    "value" : "HRM login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OKS63RD"
+  }, {
+    "name" : "thread",
+    "value" : "14076@DESKTOP-OKS63RD.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20023d1bb7e2b7df.json",
+  "parameterValues" : [ ]
+}

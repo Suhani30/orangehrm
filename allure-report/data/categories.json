@@ -1,0 +1,69 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [Amani Inaaya] but found [Add Employee]",
+      "children" : [ {
+        "name" : "Assertion can be done",
+        "uid" : "c2a30ce419ce2933",
+        "parentUid" : "f72594fc42ce1f4ae27a43b10490c6e6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673810640013,
+          "stop" : 1673810643108,
+          "duration" : 3095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "87174c192dabddfd",
+        "parentUid" : "f72594fc42ce1f4ae27a43b10490c6e6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811199327,
+          "stop" : 1673811199418,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assertion can be done",
+        "uid" : "2040de347489f4fe",
+        "parentUid" : "f72594fc42ce1f4ae27a43b10490c6e6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811428507,
+          "stop" : 1673811428579,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f72594fc42ce1f4ae27a43b10490c6e6"
+    }, {
+      "name" : "expected [(1) Record Found] but found [(40) Records Found]",
+      "children" : [ {
+        "name" : "User can click again",
+        "uid" : "2ff0181b6a447421",
+        "parentUid" : "ce69d66956def825e0922530bbdc318d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1673811428585,
+          "stop" : 1673811434907,
+          "duration" : 6322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce69d66956def825e0922530bbdc318d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
