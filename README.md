@@ -11,7 +11,7 @@ Type the following commands:
  -t   specify the path of src file.
  -l    instruct to write into log file results
  -e -o   location of the output folder
-jmeter -n -t [path of the dot jmx file] -l [path of thr reports.csv file] -e -o [blank folder html path to generate html report] 
+![image](https://user-images.githubusercontent.com/32200084/212564056-fa962ee1-1f43-4dc4-8e8c-e700d1b27749.png)
 
 
 
