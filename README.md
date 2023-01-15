@@ -1,7 +1,7 @@
 # orangehrm
 # orangehrm-automation-testing
 Web Automation Testing using TestNG.
-1. Download the .jmx file
+1. Download the src file
 2. Open CMD or your CLI mode
 Type the following commands:
 
